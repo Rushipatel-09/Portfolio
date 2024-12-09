@@ -119,6 +119,7 @@ p {
 
     .navbar-nav {
         display: none;
+        background-color: #608BC1;
         flex-direction: column;
         position: absolute;
         top: 50px;
